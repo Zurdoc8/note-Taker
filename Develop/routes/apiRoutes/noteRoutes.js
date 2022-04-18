@@ -4,7 +4,7 @@ const { notes } = require('../../db/db.json');
 
 const { noteCreateNew } = require('');
 
-router.length('/notes', (req, res) => {
+router.get('/notes', (req, res) => {
     let saved = notes;
     res.json(saved);
 })
