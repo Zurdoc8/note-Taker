@@ -5,9 +5,24 @@
       "text": "Test text"
     },
     {
-      "title": "My First Note",
-      "text": "Here is my first note",
+      "title": "Test ",
+      "text": "Hello from the other side",
       "id": "1"
+    },
+    {
+      "title": "Take out the trash",
+      "text": "Do not forget, monday night",
+      "id": "2"
+    },
+    {
+      "title": "Commit",
+      "text": "Make sure you commit your work",
+      "id": "3"
+    },
+    {
+      "title": "eat your vegetables",
+      "text": "They are actually tasty and good for you",
+      "id": "4"
     }
   ]
 }
